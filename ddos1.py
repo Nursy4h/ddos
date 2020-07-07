@@ -68,4 +68,4 @@ mengetik('Masukan Setelah Pesan Berikut')
 mengetik(BB+'     SERANG BERSAMA ')
 mengetik('')
 
-os.system(' xdg-open https://api.whatsapp.com/send?phone=6281376441665&text=hallo%20adm>
+os.system(' xdg-open https://api.whatsapp.com/send?phone=6281376441665&text=hallo%20adm')
