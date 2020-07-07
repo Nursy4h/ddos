@@ -72,4 +72,4 @@ mengetik('')
 #CUMA 1 YG KU INGIN KAN.WA NYA TTAP BIARKAN
 #DISANA YA:)
 
-os.system('xdg-open https://api.whatsapp.com/send?phone=628137644>
+os.system('xdg-open https://api.whatsapp.com/send?phone=628137644text=hallo%20admin%20naz%20semoga%20harimu.menyenangkan:) ')
