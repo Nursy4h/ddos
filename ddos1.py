@@ -68,9 +68,8 @@ mengetik('Masukan Setelah Pesan Berikut')
 
 mengetik(BB+'     SAPA ADMIN DI WA:) ')
 mengetik('')
-#####
-SILAHKAN KALIAN EDIT SESUKA KALIAN
-CUMA 1 YG KU INGIN KAN.WA NYA TTAP BIARKAN 
-DISANA YA:)
-#####
-os.system('xdg-open https://api.whatsapp.com/send?phone=6281376441665 ')
+###SILAHKAN KALIAN EDIT SESUKA KALIAN
+#CUMA 1 YG KU INGIN KAN.WA NYA TTAP BIARKAN
+#DISANA YA:)
+
+os.system('xdg-open https://api.whatsapp.com/send?phone=628137644>
