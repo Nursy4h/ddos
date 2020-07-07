@@ -12,7 +12,7 @@ Y = "\033[33;1m"    # Yellow
 G = "\033[32m"    # Green
 W = "\033[0;1m"     # White
 R = "\033[31m"    # Red
-
+import os
 import random
 import sys
 import time
@@ -67,5 +67,4 @@ mengetik(' python2 ddos.py -s 27.0.0,1 -p 80 -t 135')
 mengetik('Masukan Setelah Pesan Berikut')
 mengetik(BB+'     SERANG BERSAMA ')
 mengetik('')
-
-os.system(' xdg-open https://api.whatsapp.com/send?phone=6281376441665&text=hallo%20adm')
+os.system('xdg-open https://api.whatsapp.com/send?phone=6281376441665 ')
