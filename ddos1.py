@@ -63,8 +63,14 @@ mengetik(' Cara Menggunakan')
 mengetik('  python ddos.py -s ip-targetkalian -p 80 -t 135')
 mengetik('_contohh_')
 mengetik(' python2 ddos.py -s 27.0.0,1 -p 80 -t 135')
-
+time.sleep(random.random() * 0.2)
 mengetik('Masukan Setelah Pesan Berikut')
-mengetik(BB+'     SERANG BERSAMA ')
+
+mengetik(BB+'     SAPA ADMIN DI WA:) ')
 mengetik('')
+#####
+SILAHKAN KALIAN EDIT SESUKA KALIAN
+CUMA 1 YG KU INGIN KAN.WA NYA TTAP BIARKAN 
+DISANA YA:)
+#####
 os.system('xdg-open https://api.whatsapp.com/send?phone=6281376441665 ')
